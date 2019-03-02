@@ -1,0 +1,30 @@
+{
+  "name": "burger-logger",
+  "version": "1.0.0",
+  "description": "1. Create a GitHub repo called `burger` and clone it to your computer.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "handlebars": "^4.1.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarvanegas34/burger-logger.git"
+  },
+  "engines":{
+    "node": "v8.11.4"
+  },
+  "author": "Oscar Vanegas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscarvanegas34/burger-logger/issues"
+  },
+  "homepage": "https://github.com/oscarvanegas34/burger-logger#readme"
+}
