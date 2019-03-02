@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/oscarvanegas34/burger-logger.git"
   },
-  "engines":{
+  "engines": {
     "node": "v8.11.4"
   },
   "author": "Oscar Vanegas",
